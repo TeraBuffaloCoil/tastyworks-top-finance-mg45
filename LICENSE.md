@@ -1,4 +1,4 @@
-# 
+# Tastyworks Desktop is a powerful platform for options and multi-leg trading, designed for active traders and investors.
 
 
 
